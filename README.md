@@ -1,2 +1,2 @@
 # semester-2
-This repo contains all the useful stuff for my second sem.
+This repo contains all the stuff used in my second sem.
